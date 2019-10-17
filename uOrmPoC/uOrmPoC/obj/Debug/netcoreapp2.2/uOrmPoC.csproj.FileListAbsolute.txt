@@ -1,0 +1,13 @@
+D:\PoCs\orm\uOrmPoC\uOrmPoC\bin\Debug\netcoreapp2.2\uOrmPoC.deps.json
+D:\PoCs\orm\uOrmPoC\uOrmPoC\bin\Debug\netcoreapp2.2\uOrmPoC.runtimeconfig.json
+D:\PoCs\orm\uOrmPoC\uOrmPoC\bin\Debug\netcoreapp2.2\uOrmPoC.runtimeconfig.dev.json
+D:\PoCs\orm\uOrmPoC\uOrmPoC\bin\Debug\netcoreapp2.2\uOrmPoC.dll
+D:\PoCs\orm\uOrmPoC\uOrmPoC\obj\Debug\netcoreapp2.2\uOrmPoC.csprojAssemblyReference.cache
+D:\PoCs\orm\uOrmPoC\uOrmPoC\obj\Debug\netcoreapp2.2\uOrmPoC.csproj.CoreCompileInputs.cache
+D:\PoCs\orm\uOrmPoC\uOrmPoC\obj\Debug\netcoreapp2.2\uOrmPoC.AssemblyInfoInputs.cache
+D:\PoCs\orm\uOrmPoC\uOrmPoC\obj\Debug\netcoreapp2.2\uOrmPoC.AssemblyInfo.cs
+D:\PoCs\orm\uOrmPoC\uOrmPoC\bin\Debug\netcoreapp2.2\uOrmPoC.pdb
+D:\PoCs\orm\uOrmPoC\uOrmPoC\obj\Debug\netcoreapp2.2\uOrmPoC.dll
+D:\PoCs\orm\uOrmPoC\uOrmPoC\obj\Debug\netcoreapp2.2\uOrmPoC.pdb
+D:\PoCs\orm\uOrmPoC\uOrmPoC\bin\Debug\netcoreapp2.2\App.config
+D:\PoCs\orm\uOrmPoC\uOrmPoC\bin\Debug\netcoreapp2.2\uOrmPoC.dll.config

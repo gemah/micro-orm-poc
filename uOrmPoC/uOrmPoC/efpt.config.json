@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"DummyContext","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":false,"OutputPath":null,"ProjectRootNamespace":"uOrmPoC","SelectedToBeGenerated":2,"Tables":[{"HasPrimaryKey":true,"Name":"dbo.nfe"}],"UseDatabaseNames":false,"UseFluentApiOnly":false,"UseHandleBars":false,"UseInflector":false}
